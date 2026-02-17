@@ -1,7 +1,7 @@
 {
-  "version": "2.5.1",
-  "versionCode": 29,
+  "version": "2.5.2",
+  "versionCode": 30,
   "releaseDate": "2026-02-17",
-  "releaseNotes": "Fix catálogo + modal centrado + descarga in-app",
-  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.5.1/navegador-secciones-v2.5.1.apk"
+  "releaseNotes": "Correcciones de estabilidad en actualizador",
+  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.5.2/navegador-secciones-v2.5.2.apk"
 }
