@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
-  "versionCode": 24,
+  "version": "2.3.1",
+  "versionCode": 25,
   "releaseDate": "2026-02-17",
-  "releaseNotes": "Actualizaciones desde la app, badge de nueva versión, migración a Aragón",
-  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.3.0/navegador-secciones-v2.3.0.apk"
+  "releaseNotes": "Test de actualización OTA",
+  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.3.1/navegador-secciones-v2.3.1.apk"
 }
