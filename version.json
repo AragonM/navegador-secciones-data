@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "versionCode": 23,
+  "version": "2.3.0",
+  "versionCode": 24,
   "releaseDate": "2026-02-17",
-  "releaseNotes": "GPS en vivo, mejor offline, actualización garantizada",
-  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.2.0/navegador-secciones-v2.2.0.apk"
+  "releaseNotes": "Actualizaciones desde la app, badge de nueva versión, migración a Aragón",
+  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.3.0/navegador-secciones-v2.3.0.apk"
 }
