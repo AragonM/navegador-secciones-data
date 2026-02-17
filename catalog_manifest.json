@@ -1,0 +1,148 @@
+{
+  "version": "catalogo_nacional(2026).rds",
+  "generated_at": "2026-02-16T20:52:27Z",
+  "total_items": 73268,
+  "total_chunks": 15,
+  "chunk_size": 5000,
+  "state_counts": {
+    "1": 736,
+    "10": 1415,
+    "11": 3357,
+    "12": 2718,
+    "13": 1894,
+    "14": 4080,
+    "15": 7052,
+    "16": 2825,
+    "17": 949,
+    "18": 1011,
+    "19": 3114,
+    "2": 2254,
+    "20": 2564,
+    "21": 2965,
+    "22": 1090,
+    "23": 1151,
+    "24": 1901,
+    "25": 3855,
+    "26": 1667,
+    "27": 1191,
+    "28": 2220,
+    "29": 634,
+    "3": 535,
+    "30": 5004,
+    "31": 1240,
+    "32": 1793,
+    "4": 555,
+    "5": 1872,
+    "6": 430,
+    "7": 2296,
+    "8": 3311,
+    "9": 5589
+  },
+  "files": [
+    {
+      "index": 0,
+      "filename": "catalog_part_0.bin",
+      "count": 5000,
+      "size": 3090332,
+      "md5": "c23cf6fbc1a8c27b4cc890f4555caaf4"
+    },
+    {
+      "index": 1,
+      "filename": "catalog_part_1.bin",
+      "count": 5000,
+      "size": 4596247,
+      "md5": "d012ed29ffe7d67acfcb7b4600b72547"
+    },
+    {
+      "index": 2,
+      "filename": "catalog_part_2.bin",
+      "count": 5000,
+      "size": 2064286,
+      "md5": "1a5a50fbf0304d278e24f2d34cef7b88"
+    },
+    {
+      "index": 3,
+      "filename": "catalog_part_3.bin",
+      "count": 5000,
+      "size": 3126949,
+      "md5": "86f84bd6ec726e3a4dcc937e4154041c"
+    },
+    {
+      "index": 4,
+      "filename": "catalog_part_4.bin",
+      "count": 5000,
+      "size": 3883059,
+      "md5": "584ed15543c1df3aaa783eaa0b87e19e"
+    },
+    {
+      "index": 5,
+      "filename": "catalog_part_5.bin",
+      "count": 5000,
+      "size": 3382727,
+      "md5": "8fd902aa5fcfd409258f7dc0cf132dc6"
+    },
+    {
+      "index": 6,
+      "filename": "catalog_part_6.bin",
+      "count": 5000,
+      "size": 3284724,
+      "md5": "c61af63807329aa70877f0fd8deed0dc"
+    },
+    {
+      "index": 7,
+      "filename": "catalog_part_7.bin",
+      "count": 5000,
+      "size": 3855028,
+      "md5": "a13d7d20aa2cb11726d50a4b2a0f8e32"
+    },
+    {
+      "index": 8,
+      "filename": "catalog_part_8.bin",
+      "count": 5000,
+      "size": 3256515,
+      "md5": "88a778caf0d76cc5ffc4a8d53967a93f"
+    },
+    {
+      "index": 9,
+      "filename": "catalog_part_9.bin",
+      "count": 5000,
+      "size": 6743296,
+      "md5": "d34cb0aa0929621a9f0fa0440aa768b9"
+    },
+    {
+      "index": 10,
+      "filename": "catalog_part_10.bin",
+      "count": 5000,
+      "size": 4043130,
+      "md5": "42a6e30163b415a4273527d2c765eabe"
+    },
+    {
+      "index": 11,
+      "filename": "catalog_part_11.bin",
+      "count": 5000,
+      "size": 2053450,
+      "md5": "22bba83c635a7b5d5db93c7368fecd01"
+    },
+    {
+      "index": 12,
+      "filename": "catalog_part_12.bin",
+      "count": 5000,
+      "size": 3494380,
+      "md5": "104832dfbe34d8aa734f0926de7a7902"
+    },
+    {
+      "index": 13,
+      "filename": "catalog_part_13.bin",
+      "count": 5000,
+      "size": 5116870,
+      "md5": "56b414be12ba76857505ff72e2372864"
+    },
+    {
+      "index": 14,
+      "filename": "catalog_part_14.bin",
+      "count": 3268,
+      "size": 3978497,
+      "md5": "998eaaa11cca587585192ae04d5193e2"
+    }
+  ]
+}
