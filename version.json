@@ -1,7 +1,7 @@
 {
-  "version": "2.3.2",
-  "versionCode": 26,
+  "version": "2.4.0",
+  "versionCode": 27,
   "releaseDate": "2026-02-17",
-  "releaseNotes": "Fix de actualización + limpieza de cache nativa",
-  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.3.2/navegador-secciones-v2.3.2.apk"
+  "releaseNotes": "Nuevo logo + actualización mejorada + limpieza de caché nativa",
+  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.4.0/navegador-secciones-v2.4.0.apk"
 }
