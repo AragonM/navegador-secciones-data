@@ -1,7 +1,7 @@
 {
-  "version": "2.5.4",
-  "versionCode": 36,
+  "version": "2.5.5",
+  "versionCode": 37,
   "releaseDate": "2026-02-28",
-  "releaseNotes": "Catálogo se repara automáticamente y ubicación detecta tu estado real",
-  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.5.4/navegador-secciones-v2.5.4.apk"
+  "releaseNotes": "Mapas offline mejorados: más detalle sin internet y iconos locales",
+  "apkUrl": "https://github.com/AragonM/navegador-secciones-data/releases/download/v2.5.5/navegador-secciones-v2.5.5.apk"
 }
